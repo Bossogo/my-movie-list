@@ -1,0 +1,310 @@
+{
+  "categories": [
+    {
+      "category": "Action",
+      "interests": [
+        {
+          "id": "in0000001",
+          "name": "Action",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "description": "The action genre features fast-paced, thrilling, and intense sequences of physical feats, combat, and excitement. The characters of these stories are involved in daring and often dangerous situations, requiring them to rely on their physical prowess, skills, and quick thinking to overcome challenges and adversaries."
+        },
+        {
+          "id": "in0000002",
+          "name": "Action Epic",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_.jpg",
+            "width": 1366,
+            "height": 768
+          },
+          "description": "The action epic subgenre features fast-paced action with a grand and sweeping narrative scope, often spanning across vast landscapes, historical eras, and larger-than-life characters and conflicts. Classically, an epic tells the heroic journey and deeds of a single person, or group of persons, upon which the fate of many people depends.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000003",
+          "name": "B-Action",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmQ5YzZiMGQtNzUyYS00OTNkLWExZjgtOTQxOWZiMTY1ZmUxXkEyXkFqcGc@._V1_.jpg",
+            "width": 1914,
+            "height": 1073
+          },
+          "description": "The B-action subgenre features lower budgets, simpler plots, and lower production values compared to bigger budget mainstream action titles. Originally used in a derogatory manner, the subgenre has evolved to describe a specific type of filmmaking with its own unique charm and appeal. The \"B\" designation originally referred to the second feature in a double feature presentation, with the \"A\" film being the main attraction. Over time, \"B-movies\" became associated with low-budget and less prestigious productions.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000004",
+          "name": "Car Action",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTQ2Nzg5ODU5NV5BMl5BanBnXkFtZTcwMDk2NTkxNA@@._V1_.jpg",
+            "width": 2048,
+            "height": 1131
+          },
+          "description": "The car action subgenre features high-speed car chases, daring stunts, and intense vehicular action sequences. Automobiles take on a central role as characters engage in thrilling pursuits, races, and confrontations involving cars, motorcycles, trucks, and other vehicles.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000005",
+          "name": "Disaster",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODAzMDA4ZDYtNjJlNi00ZjlmLTk2ZTQtZTQ2NzI1ODg2M2ZjXkEyXkFqcGc@._V1_.jpg",
+            "width": 1920,
+            "height": 1080
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000006",
+          "name": "Martial Arts",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGFmODI5ZWItZmIwZS00ZmQ5LThkOWUtZTY0OTU1ZmIwMmJlXkEyXkFqcGc@._V1_.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "description": "The martial arts subgenre features martial arts techniques, choreography, and combat as central elements of the story. These stories often revolve around skilled martial artists who use their expertise to navigate challenges, seek revenge, protect others, or engage in epic battles.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000007",
+          "name": "One-Person Army Action",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTUzNjg4NjA1M15BMl5BanBnXkFtZTgwMjI0OTcyMDI@._V1_.jpg",
+            "width": 5472,
+            "height": 3648
+          },
+          "description": "The one-person army subgenre features a single protagonist who takes on hordes of enemies all by themselves. These stories are characterized by adrenaline-pumping action, highly choreographed action sequences, memorable characters, and the sheer spectacle of watching a lone hero take on insurmountable odds.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000008",
+          "name": "Superhero",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTM2MzY1ODc1Nl5BMl5BanBnXkFtZTcwNTg4OTY3Nw@@._V1_.jpg",
+            "width": 2048,
+            "height": 1152
+          },
+          "description": "The superhero subgenre features costumed crime fighters with extraordinary abilities or powers who use them to fight against villains and protect the innocent. They often combine high-energy action sequences with themes of heroism, morality, and the struggle between good and evil.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000009",
+          "name": "Sword & Sandal",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDMzNzkwNDgxMF5BMl5BanBnXkFtZTcwNzg0NjcxNA@@._V1_.jpg",
+            "width": 2048,
+            "height": 1351
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000010",
+          "name": "War",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTczMGFjOGUtZDJlMy00NWE2LWI5MGYtZWRkOThlZDllNjEwXkEyXkFqcGc@._V1_.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "description": "The war genre features armed conflicts, both historical and fictional, and the experiences of individuals and groups involved in warfare. This genre explores the physical, emotional, and moral challenges faced by soldiers, civilians, and others affected by war."
+        },
+        {
+          "id": "in0000011",
+          "name": "War Epic",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjA4MzEzOTc0N15BMl5BanBnXkFtZTgwOTcyNDY4MjI@._V1_.jpg",
+            "width": 2048,
+            "height": 858
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000197",
+          "name": "Gun Fu",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmNhYjJiYTUtNWMyNy00NTUyLTlkZDktMDk2YTZiMTJhN2MxXkEyXkFqcGc@._V1_.jpg",
+            "width": 1920,
+            "height": 800
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000198",
+          "name": "Kung Fu",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDkzNTkyODE1NF5BMl5BanBnXkFtZTgwNTE3MzYyNzE@._V1_.jpg",
+            "width": 2048,
+            "height": 1365
+          },
+          "description": "The kung fu subgenre features the practice and mastery of Chinese martial arts. In Chinese, \"kung fu\" refers to any skill acquired through practice. Born as a backlash against the supernatural tropes of wuxia, the kung fu subgenre depicts realistic, unarmed fight choreography, highlighting the skill, speed, and agility of the martial artists involved, as well as the discipline, patience and strength required to become a master.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000199",
+          "name": "Samurai",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTc4MTc4M15BMl5BanBnXkFtZTcwNjA5MTU4Mw@@._V1_.jpg",
+            "width": 2048,
+            "height": 1547
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000200",
+          "name": "Wuxia",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWJjMjgzYTctMTY5OC00YzQzLTk3MDMtMmY5YWNkYzFlMGU2XkEyXkFqcGc@._V1_.jpg",
+            "width": 1080,
+            "height": 749
+          },
+          "isSubgenre": true
+        }
+      ]
+    },
+    {
+      "category": "Adventure",
+      "interests": [
+        {
+          "id": "in0000012",
+          "name": "Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTlmNjQxNGItMmM1My00YTk2LTk2NjYtNTc4YWFjYTgxNTRiXkEyXkFqcGc@._V1_.jpg",
+            "width": 1920,
+            "height": 816
+          },
+          "description": "The adventure genre features exciting journeys, quests, or expeditions undertaken by characters who often face challenges, obstacles, and risks in pursuit of a goal. Adventures can take place in a wide range of settings, from exotic and fantastical locations to historical or even everyday environments."
+        },
+        {
+          "id": "in0000013",
+          "name": "Desert Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTM3MjcyNDMxMV5BMl5BanBnXkFtZTcwOTc0NTY0NQ@@._V1_.jpg",
+            "width": 2048,
+            "height": 1378
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000014",
+          "name": "Dinosaur Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NzI2MzkyNl5BMl5BanBnXkFtZTgwMzcyOTIwMjE@._V1_.jpg",
+            "width": 2901,
+            "height": 1960
+          },
+          "description": "The dinosaur adventure subgenre features dinosaurs as central elements of the story. These stories typically transport viewers to prehistoric times or depict scenarios where dinosaurs coexist with humans or are rediscovered in the modern world.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000015",
+          "name": "Adventure Epic",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGE4NjIwMGYtYWQ4MC00NGIyLWI1YjQtNjJmZjllYjFjMDgzXkEyXkFqcGc@._V1_.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "description": "The adventure epic subgenre features grand scope, sweeping landscapes, heroic journeys, and often historical or mythological elements. Epic adventure stories transport audiences to different worlds, eras, or fantastical realms, immersing them in narratives that encompass vast territories and significant challenges.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000016",
+          "name": "Globetrotting Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2U3NGYxYjktMTliNC00MjE1LTlkMzgtOWQ1OWUxN2MzMDc0XkEyXkFqcGc@._V1_.jpg",
+            "width": 5742,
+            "height": 4001
+          },
+          "description": "The globetrotting adventure subgenre features characters that travel to multiple locations around the world on exciting and often high-stakes journeys or quests. In globetrotting adventures, characters traverse diverse cultures, landscapes, and settings, encountering challenges and uncovering mysteries in each new location they visit.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000017",
+          "name": "Jungle Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzQ5OTUwOTQ4M15BMl5BanBnXkFtZTgwNzEyODQ0MzI@._V1_.jpg",
+            "width": 2048,
+            "height": 1365
+          },
+          "description": "The jungle adventure subgenre features narratives set in dense and often treacherous jungle environments and follow characters as they navigate through lush vegetation, encounter wildlife, and confront the challenges presented by the jungle's natural hazards. This subgenre often emphasizes survival skills, exploration, and the characters' resilience in the face of the jungle's dangers.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000018",
+          "name": "Mountain Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjEwMTIwOTQ0NV5BMl5BanBnXkFtZTgwNzkxODk4NTE@._V1_.jpg",
+            "width": 2048,
+            "height": 1363
+          },
+          "description": "The mountain adventure subgenre features narratives set in rugged, mountainous landscapes. In mountain adventures, characters navigate the challenges and perils of mountain environments, including treacherous terrain, extreme weather conditions, and high altitudes. This subgenre highlights the physical and psychological struggles of characters as they attempt to conquer these formidable natural landscapes.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000019",
+          "name": "Quest",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg2MTIzMTIwNV5BMl5BanBnXkFtZTcwNDM5NTkxNA@@._V1_.jpg",
+            "width": 2048,
+            "height": 1494
+          },
+          "description": "The quest subgenre features characters who embark on journeys with a clear and often epic objective or goal. These quests drive the narrative forward and provide a structured framework for the characters to encounter challenges, obstacles, and personal growth as they strive to achieve their mission.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000020",
+          "name": "Road Trip",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjMzOTI0MTA1OF5BMl5BanBnXkFtZTgwNjM4Nzk5OTE@._V1_.jpg",
+            "width": 2048,
+            "height": 1536
+          },
+          "description": "The road trip subgenre features narratives in which characters embark on a journey by road, often involving a series of destinations, experiences, and encounters along the way. Road trip stories emphasize the characters' personal growth, relationships, and discoveries as they travel together, providing opportunities for exploration and self-discovery.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000021",
+          "name": "Sea Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDI4MDEyN15BMl5BanBnXkFtZTcwNTYyMTI3Nw@@._V1_.jpg",
+            "width": 2048,
+            "height": 1142
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000022",
+          "name": "Swashbuckler",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTAzNTY1NjYwMl5BMl5BanBnXkFtZTgwNTIwNjMzMjI@._V1_.jpg",
+            "width": 2048,
+            "height": 858
+          },
+          "description": "The swashbuckler subgenre, the term referring to a flamboyant and daring swordsman, features narratives centered around heroic and dashing characters known for their skill in swordplay and their chivalrous actions. Swashbucklers are typically set in historical or fantasy settings and often feature extravagant action sequences, daring escapades, and a sense of romance and adventure.",
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000023",
+          "name": "Teen Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTU3MjQwNzQ3NF5BMl5BanBnXkFtZTcwMzUyNTQyMw@@._V1_.jpg",
+            "width": 2048,
+            "height": 1359
+          },
+          "isSubgenre": true
+        },
+        {
+          "id": "in0000024",
+          "name": "Urban Adventure",
+          "primaryImage": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTU4NjYwNzAxN15BMl5BanBnXkFtZTgwMDkyODI4NjM@._V1_.jpg",
+            "width": 2048,
+            "height": 858
+          },
+          "description": "The urban adventure subgenre features narratives set in urban environments, typically cities and metropolitan areas. In these stories, characters navigate the challenges and dynamics of city life while engaging in adventures, often involving danger, mystery, and action. They combine elements of thrill, suspense, and exploration within the context of urban settings.",
+          "isSubgenre": true
+        }
+      ]
+    }
+  ]
+}

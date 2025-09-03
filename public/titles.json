@@ -1,0 +1,1168 @@
+{
+  "titles": [
+    {
+      "id": "tt12001534",
+      "type": "movie",
+      "primaryTitle": "The Thursday Murder Club",
+      "originalTitle": "The Thursday Murder Club",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 7080,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 20659
+      },
+      "plot": "Four irrepressible retirees spend their time solving cold case murders for fun, but their casual sleuthing takes a thrilling turn when they find themselves with a real whodunit on their hands."
+    },
+    {
+      "id": "tt33043892",
+      "type": "tvSeries",
+      "primaryTitle": "Dexter: Resurrection",
+      "originalTitle": "Dexter: Resurrection",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzgxNzUwZTctMzliNi00MDUwLWE4YzctNjgwMDE2OWQwNzMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 2700,
+        "height": 4000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3000,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 9.2,
+        "voteCount": 55659
+      },
+      "plot": "Dexter Morgan awakens from a coma and sets out for New York City, determined to find Harrison and make things right. But when Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast."
+    },
+    {
+      "id": "tt13623632",
+      "type": "tvSeries",
+      "primaryTitle": "Alien: Earth",
+      "originalTitle": "Alien: Earth",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGIyNGRiNzgtOWQxZC00YzJmLThlZTYtYTMyMDk0YWZjMTk5XkEyXkFqcGc@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3300,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 29682
+      },
+      "plot": "When a mysterious space vessel crash-lands on Earth, a young woman and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat."
+    },
+    {
+      "id": "tt26581740",
+      "type": "movie",
+      "primaryTitle": "Weapons",
+      "originalTitle": "Weapons",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1638,
+        "height": 2048
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 7680,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 92220
+      },
+      "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "primaryTitle": "Thunderbolts*",
+      "originalTitle": "Thunderbolts*",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWE2NmNmYTItZGY0ZC00MmY2LTk1NDAtMGUyMGEzMjcxNWM0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 2818
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 7620,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 195461
+      },
+      "plot": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts."
+    },
+    {
+      "id": "tt13443470",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Wednesday",
+      "originalTitle": "Wednesday",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDE1NjNmZjgtZTg0OC00NjkxLWEzYzItMDNkMTc3YjgxZWQyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2022,
+      "runtimeSeconds": 2700,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 446744
+      },
+      "plot": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents."
+    },
+    {
+      "id": "tt26576161",
+      "type": "tvSeries",
+      "primaryTitle": "The Terminal List: Dark Wolf",
+      "originalTitle": "The Terminal List: Dark Wolf",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGVlNmU2YmItOTE1Mi00NjhlLWE0ODMtNDVjMjY0OTUyOWY2XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 2491
+      },
+      "plot": "Before joining THE TERMINAL LIST, Navy SEAL Ben Edwards works CIA black ops. As he delves deeper into moral gray areas, he struggles between light and dark impulses - two wolves fighting within him."
+    },
+    {
+      "id": "tt13146488",
+      "type": "tvSeries",
+      "primaryTitle": "Peacemaker",
+      "originalTitle": "Peacemaker",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIyMGU2NTktOTM3YS00OTRjLWJiMmItNDEyNjVhZTZiZGUxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1296,
+        "height": 1920
+      },
+      "startYear": 2022,
+      "runtimeSeconds": 2400,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 161548
+      },
+      "plot": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price."
+    },
+    {
+      "id": "tt1493274",
+      "type": "movie",
+      "primaryTitle": "Caught Stealing",
+      "originalTitle": "Caught Stealing",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk0YTIyYmMtMTJjOC00NmNiLTkxMTktYTU0ZDFhNjJlMTJiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 5885
+      },
+      "plot": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of 1990s New York City, forced to navigate a treacherous underworld he never imagined."
+    },
+    {
+      "id": "tt12300742",
+      "type": "movie",
+      "primaryTitle": "Bugonia",
+      "originalTitle": "Bugonia",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_.jpg",
+        "width": 8268,
+        "height": 11811
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 7200,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 283
+      },
+      "plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+    },
+    {
+      "id": "tt5950044",
+      "type": "movie",
+      "primaryTitle": "Superman",
+      "originalTitle": "Superman",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1638,
+        "height": 2048
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 7740,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 264131
+      },
+      "plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned."
+    },
+    {
+      "id": "tt31806048",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Hostage",
+      "originalTitle": "Hostage",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E2MWJiNzktOTY2Ni00MzlkLTk1N2MtNzFiYzQ3YWM5YmRmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2025,
+      "endYear": 2025,
+      "runtimeSeconds": 2700,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 8617
+      },
+      "plot": "When the PM's husband is kidnapped and the visiting French President is blackmailed, the two political leaders face unimaginable choices. Forced into a fierce rivalry can they work together to uncover the plot that threatens them both?"
+    },
+    {
+      "id": "tt16311594",
+      "type": "movie",
+      "primaryTitle": "F1: The Movie",
+      "originalTitle": "F1",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 9300,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 183840
+      },
+      "plot": "A Formula One driver comes out of retirement to mentor and team up with a younger driver."
+    },
+    {
+      "id": "tt14016500",
+      "type": "tvSeries",
+      "primaryTitle": "The Summer I Turned Pretty",
+      "originalTitle": "The Summer I Turned Pretty",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjY0OWZkYjEtYzBmZC00NThhLWFjOGYtM2Q5NDA5MWJjZGVkXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2022,
+      "endYear": 2025,
+      "runtimeSeconds": 2700,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 57098
+      },
+      "plot": "A love triangle between one girl and two brothers. A story about first love, first heartbreak, and the magic of that one perfect summer."
+    },
+    {
+      "id": "tt31973693",
+      "type": "movie",
+      "primaryTitle": "The Roses",
+      "originalTitle": "The Roses",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzliNTEyYjEtNGE3Mi00ZDIzLTg1NzYtZDBhNTQ5ZDVkMmM3XkEyXkFqcGc@._V1_.jpg",
+        "width": 504,
+        "height": 755
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 4162
+      },
+      "plot": "A tinderbox of competition and resentments underneath the façade of a picture-perfect couple is ignited when the husband's professional dreams come crashing down."
+    },
+    {
+      "id": "tt14205554",
+      "type": "movie",
+      "primaryTitle": "KPop Demon Hunters",
+      "originalTitle": "KPop Demon Hunters",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 5700,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Music",
+        "Musical"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 64970
+      },
+      "plot": "A world-renowned K-Pop girl group balance their lives in the spotlight with their secret identities as demon hunters."
+    },
+    {
+      "id": "tt8323628",
+      "type": "tvSeries",
+      "primaryTitle": "My Life with the Walter Boys",
+      "originalTitle": "My Life with the Walter Boys",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2EyODA0ZWQtY2UxZi00ODBiLTk3OTEtNWQ4M2JjYmZhMWNiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1250
+      },
+      "startYear": 2023,
+      "runtimeSeconds": 3000,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 20307
+      },
+      "plot": "Jackie Howard's life is disrupted by a freak accident, she is ripped from her home and has to start over on a ranch in Colorado, with her guardian and a family of 9 boys, and 1 girl."
+    },
+    {
+      "id": "tt0773262",
+      "type": "tvSeries",
+      "primaryTitle": "Dexter",
+      "originalTitle": "Dexter",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1275,
+        "height": 1650
+      },
+      "startYear": 2006,
+      "endYear": 2013,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 871140
+      },
+      "plot": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and his nights committing them."
+    },
+    {
+      "id": "tt31184028",
+      "type": "movie",
+      "primaryTitle": "Together",
+      "originalTitle": "Together",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI1Mzg0OWUtNDYxYy00Mzk3LTgxMjMtYWYxZjJhMjI4NDcyXkEyXkFqcGc@._V1_.jpg",
+        "width": 8100,
+        "height": 12000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6120,
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 27787
+      },
+      "plot": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country. With tensions already flaring, an encounter with an unnatural force threatens to corrupt their lives, their love and their flesh."
+    },
+    {
+      "id": "tt0944947",
+      "type": "tvSeries",
+      "primaryTitle": "Game of Thrones",
+      "originalTitle": "Game of Thrones",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_.jpg",
+        "width": 550,
+        "height": 824
+      },
+      "startYear": 2011,
+      "endYear": 2019,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 9.2,
+        "voteCount": 2474570
+      },
+      "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+    },
+    {
+      "id": "tt31449991",
+      "type": "tvSeries",
+      "primaryTitle": "Chad Powers",
+      "originalTitle": "Chad Powers",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTJmNjM0MjQtNWEyZS00M2U3LTlhMDgtNTZhM2IxMTdlOGNhXkEyXkFqcGc@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      },
+      "startYear": 2025,
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "plot": "A disgraced college quarterback named Russ Holliday disguises himself as Chad Powers and walks onto a struggling southern football team to revive his football career."
+    },
+    {
+      "id": "tt30221531",
+      "type": "tvSeries",
+      "primaryTitle": "King & Conqueror",
+      "originalTitle": "King & Conqueror",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjIxMjYxOWMtYjZmNi00MGU0LTg2ZGMtODg2MTJmZWNiYzg4XkEyXkFqcGc@._V1_.jpg",
+        "width": 960,
+        "height": 1200
+      },
+      "startYear": 2025,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 2015
+      },
+      "plot": "William of Normandy and Harold of Wessex were two individuals destined to meet at the Battle of Hastings in 1066; they were allies but had no claim to the British monarchy until fate drove them into a conflict over the country's crown."
+    },
+    {
+      "id": "tt4045450",
+      "type": "movie",
+      "primaryTitle": "I Know What You Did Last Summer",
+      "originalTitle": "I Know What You Did Last Summer",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 889
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6660,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 19918
+      },
+      "plot": "A group of friends are terrorised by a stalker who knows about a gruesome incident from their past."
+    },
+    {
+      "id": "tt9603208",
+      "type": "movie",
+      "primaryTitle": "Mission: Impossible - The Final Reckoning",
+      "originalTitle": "Mission: Impossible - The Final Reckoning",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 10140,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 146788
+      },
+      "plot": "Hunt and the IMF pursue a dangerous AI called the Entity that's infiltrated global intelligence. With governments and a figure from his past in pursuit, Hunt races to stop it from forever changing the world."
+    },
+    {
+      "id": "tt0903747",
+      "type": "tvSeries",
+      "primaryTitle": "Breaking Bad",
+      "originalTitle": "Breaking Bad",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2008,
+      "endYear": 2013,
+      "runtimeSeconds": 2700,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 9.5,
+        "voteCount": 2388800
+      },
+      "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future."
+    },
+    {
+      "id": "tt0804484",
+      "type": "tvSeries",
+      "primaryTitle": "Foundation",
+      "originalTitle": "Foundation",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzY5OGJhYzItNGQyOS00NmU3LWFhOWMtNGY1OGVlNTlmYjc0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2021,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 115749
+      },
+      "plot": "A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire."
+    },
+    {
+      "id": "tt33996113",
+      "type": "movie",
+      "primaryTitle": "Param Sundari",
+      "originalTitle": "Param Sundari",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjBhNDMyYWItMmYyMC00ZjMwLWE3MmUtZGMwZWM0ZWExYjVkXkEyXkFqcGc@._V1_.jpg",
+        "width": 2250,
+        "height": 3333
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 9120,
+      "genres": [
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 18305
+      },
+      "plot": "In Kerala's picturesque backwaters, a North Indian and South Indian find unexpected love. Their cultural differences spark a hilarious and chaotic romance, full of twists and turns. Two diverse worlds collide in a heartwarming story."
+    },
+    {
+      "id": "tt15514498",
+      "type": "movie",
+      "primaryTitle": "Eenie Meanie",
+      "originalTitle": "Eenie Meanie",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJiMDM4YzYtOWY3Zi00ODEwLTgxNjAtOTdiMDc2ZDI1MjczXkEyXkFqcGc@._V1_.jpg",
+        "width": 1086,
+        "height": 1610
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 5886
+      },
+      "plot": "A reformed teenage getaway driver is dragged back into her unsavory past when a former employer offers her a chance to save the life of her chronically unreliable ex-boyfriend."
+    },
+    {
+      "id": "tt11743610",
+      "type": "tvSeries",
+      "primaryTitle": "The Terminal List",
+      "originalTitle": "The Terminal List",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDc5OTYtNjUxNS00MzgxLWI3YjItZmZmNWJkYTNiNGUwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      },
+      "startYear": 2022,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 117714
+      },
+      "plot": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission."
+    },
+    {
+      "id": "tt12637874",
+      "type": "tvSeries",
+      "primaryTitle": "Fallout",
+      "originalTitle": "Fallout",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzk4MWZkMDgtN2UwZC00ZjVlLWE1M2ItYjY4NWEwN2YwOGYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 467,
+        "height": 700
+      },
+      "startYear": 2024,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 332271
+      },
+      "plot": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits."
+    },
+    {
+      "id": "tt14261112",
+      "type": "tvSeries",
+      "primaryTitle": "Twisted Metal",
+      "originalTitle": "Twisted Metal",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDA1NDVjNGMtZjFiZS00YjNiLWEwNTUtNTcyMGIxMTE1ZGY3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2023,
+      "runtimeSeconds": 1800,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi",
+        "Sport",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 35393
+      },
+      "plot": "An outsider must deliver a mysterious package across a post-apocalyptic wasteland in exchange for a better life."
+    },
+    {
+      "id": "tt31036941",
+      "type": "movie",
+      "primaryTitle": "Jurassic World: Rebirth",
+      "originalTitle": "Jurassic World: Rebirth",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGM3ZmI3NzQtNzU5Yi00ZWI1LTg3YTAtNmNmNWIyMWFjZTBkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1895,
+        "height": 3000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 7980,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 124414
+      },
+      "plot": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough."
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "primaryTitle": "The Fantastic Four: First Steps",
+      "originalTitle": "The Fantastic Four: First Steps",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1086,
+        "height": 1609
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6840,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 127990
+      },
+      "plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer."
+    },
+    {
+      "id": "tt32146392",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Two Graves",
+      "originalTitle": "Dos tumbas",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzA3OTE0N2ItNzZjMS00OTI0LTkwNjUtMGMzOGU5ODQ2Y2ZhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      },
+      "startYear": 2025,
+      "endYear": 2025,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 721
+      },
+      "plot": "After her 16-year-old granddaughter Verónica and her friend Mandy disappear, Isabel starts an unsanctioned investigation to uncover the truth behind their vanishing, embarking on a journey of vengeance."
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "primaryTitle": "Sinners",
+      "originalTitle": "Sinners",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 8220,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Music",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 266260
+      },
+      "plot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back."
+    },
+    {
+      "id": "tt37674426",
+      "type": "movie",
+      "primaryTitle": "Unknown Number: The High School Catfish",
+      "originalTitle": "Unknown Number: The High School Catfish",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODQ3MTdhNTQtODk3ZC00MTNmLWEwZjEtYmFkNWM2NTI3N2IyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 5640,
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 1718
+      },
+      "plot": "A teen girl and her boyfriend face persistent harassment from an unknown caller. Police investigating the months of torment discover a revelation that upends their initial assumptions."
+    },
+    {
+      "id": "tt3402138",
+      "type": "movie",
+      "primaryTitle": "The Naked Gun",
+      "originalTitle": "The Naked Gun",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 5100,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 35320
+      },
+      "plot": "Only one man has the particular set of skills - to lead Police Squad and save the world."
+    },
+    {
+      "id": "tt31710822",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Untamed",
+      "originalTitle": "Untamed",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODkxMDM5YWItNDcxZi00NjQ3LWE3NzMtNjM0MzgyNWM0MDhhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3000,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 51448
+      },
+      "plot": "A National Parks Service agent investigates a brutal death at Yosemite National Park."
+    },
+    {
+      "id": "tt12327578",
+      "type": "tvSeries",
+      "primaryTitle": "Star Trek: Strange New Worlds",
+      "originalTitle": "Star Trek: Strange New Worlds",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWY1Y2ZlNzctMzIwMi00NTM3LWJiNDUtMTZmYWY0Y2NmZmE2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2022,
+      "runtimeSeconds": 3120,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 69223
+      },
+      "plot": "A prequel to Star Trek (1966), this series follows the crew of the USS Enterprise under the command of Captain Christopher Pike."
+    },
+    {
+      "id": "tt27995114",
+      "type": "tvSeries",
+      "primaryTitle": "Dept. Q",
+      "originalTitle": "Dept. Q",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWQ3MDQ2MGQtOGM0MC00MzlkLWE0ODQtYzE4Zjc3Mjc1ZWI5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 82150
+      },
+      "plot": "Carl, a former top-rated detective, is wracked with guilt following an attack that left his partner paralyzed and another policeman dead. On his return to work, Carl is assigned to a cold case that will consume his life."
+    },
+    {
+      "id": "tt31038430",
+      "type": "tvSeries",
+      "primaryTitle": "The Hunting Wives",
+      "originalTitle": "The Hunting Wives",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGYyODY2ODQtM2U2ZS00MWEzLTk5YTgtMjIyZmQ1OTdjOTI5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1440,
+        "height": 1800
+      },
+      "startYear": 2025,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 9871
+      },
+      "plot": "Sophie O'Neil moves to deep East Texas and succumbs to socialite Margo's charms. Her life is soon consumed by obsession, seduction, and murder."
+    },
+    {
+      "id": "tt32246771",
+      "type": "movie",
+      "primaryTitle": "Bring Her Back",
+      "originalTitle": "Bring Her Back",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 5400,
+        "height": 8000
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6240,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 61944
+      },
+      "plot": "A brother and sister uncover a terrifying ritual at the secluded home of their new foster mother."
+    },
+    {
+      "id": "tt26672404",
+      "type": "tvSeries",
+      "primaryTitle": "Butterfly",
+      "originalTitle": "Butterfly",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2UzZGI1NTYtNzIyOC00ZTliLWJhNDItMWQxOTQwNWU0ODc3XkEyXkFqcGc@._V1_.jpg",
+        "width": 467,
+        "height": 700
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3000,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 5640
+      },
+      "plot": "When the consequences of a decision from his past come back to haunt him, a former intelligence operative finds himself pursued by a sociopathic agent assigned to kill him."
+    },
+    {
+      "id": "tt4574334",
+      "type": "tvSeries",
+      "primaryTitle": "Stranger Things",
+      "originalTitle": "Stranger Things",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2016,
+      "endYear": 2025,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 1480355
+      },
+      "plot": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+    },
+    {
+      "id": "tt0800175",
+      "type": "movie",
+      "primaryTitle": "Red Sonja",
+      "originalTitle": "Red Sonja",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzU2MGI2NGEtZGZlZC00NjQxLThkMWMtMzZlNDY4Mjk4ZThkXkEyXkFqcGc@._V1_.jpg",
+        "width": 720,
+        "height": 1067
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6600,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 4.5,
+        "voteCount": 2400
+      },
+      "plot": "An adaptation of the comic book, Red Sonja, a vengeful warrior known as a \"She-Devil with a sword\"."
+    },
+    {
+      "id": "tt19381692",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Chief of War",
+      "originalTitle": "Chief of War",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTIzYTRiOTItZDI4Mi00MWE3LWI1NmMtN2Y2NmU3YTcxZjg3XkEyXkFqcGc@._V1_.jpg",
+        "width": 432,
+        "height": 648
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 3000,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 6280
+      },
+      "plot": "A thrilling, unprecedented telling of the unification of the Hawaiian Islands from an indigenous perspective. A Hawaiian war chief joins a bloody campaign to unite the warring islands in order to save them from the threat of colonization."
+    },
+    {
+      "id": "tt9737326",
+      "type": "tvSeries",
+      "primaryTitle": "Invasion",
+      "originalTitle": "Invasion",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU3ZTg4OTktODUyNi00N2U4LWIwYzYtNDAzZDE0MjgyOTM4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2021,
+      "endYear": 2025,
+      "runtimeSeconds": 3600,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 51023
+      },
+      "plot": "Earth is visited by an alien species that threatens humanity's existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them."
+    },
+    {
+      "id": "tt1633359",
+      "type": "movie",
+      "primaryTitle": "The Toxic Avenger",
+      "originalTitle": "The Toxic Avenger",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_.jpg",
+        "width": 2268,
+        "height": 3204
+      },
+      "startYear": 2023,
+      "runtimeSeconds": 6000,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 2417
+      },
+      "plot": "A horrible toxic accident transforms downtrodden janitor, Winston Gooze into a new evolution of hero: The Toxic Avenger."
+    },
+    {
+      "id": "tt32543884",
+      "type": "movie",
+      "primaryTitle": "Fall for Me",
+      "originalTitle": "Fall for Me",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODUyOTc1ZDYtNjc5Ny00MzRkLTg5MDQtYTU3ZjM1MTExY2Y4XkEyXkFqcGc@._V1_.jpg",
+        "width": 450,
+        "height": 630
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6180,
+      "genres": [
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 4.8,
+        "voteCount": 2406
+      },
+      "plot": "Lilli visits her sister Valeria, surprised to learn she's engaged to a Frenchman, Manu. She spontaneously meets nightclub manager Tom, sparking an instant connection. A dark secret lurks behind the island's events.\u003C"
+    },
+    {
+      "id": "tt31868189",
+      "type": "movie",
+      "primaryTitle": "Happy Gilmore 2",
+      "originalTitle": "Happy Gilmore 2",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQyNTRmYjItMDBjYi00YWNhLWEwMmQtNzJhODNiNjEzOWJlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2025,
+      "runtimeSeconds": 6840,
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 92662
+      },
+      "plot": "Revisit Happy Gilmore's golf career after his win in the Tour Championship."
+    }
+  ],
+  "totalCount": 2347930,
+  "nextPageToken": "eyJlc1Rva2VuIjpbIjUwIiwiNTAiLCJ0dDMxODY4MTg5Il0sImZpbHRlciI6IntcImNvbnN0cmFpbnRzXCI6e1widGl0bGVUeXBlQ29uc3RyYWludFwiOntcImFueVRpdGxlVHlwZUlkc1wiOltcIm1vdmllXCIsXCJ0dlNlcmllc1wiLFwidHZNaW5pU2VyaWVzXCIsXCJ0dk1vdmllXCIsXCJ0dlNwZWNpYWxcIixcInNob3J0XCIsXCJ0dlNwZWNpYWxcIl19fSxcImxhbmd1YWdlXCI6XCJlbi1VU1wiLFwic29ydFwiOntcInNvcnRCeVwiOlwiUE9QVUxBUklUWVwiLFwic29ydE9yZGVyXCI6XCJBU0NcIn0sXCJyZXN1bHRJbmRleFwiOjQ5fSJ9"
+}
