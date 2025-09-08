@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import PaginationControls from "./PaginationControls";
+import type { MovieListProps } from "@/types/movie";
 
 export default function MovieList({ movies }: MovieListProps) {
   const [currentPage, setCurrentPage] = useState(0);

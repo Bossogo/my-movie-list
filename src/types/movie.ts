@@ -17,3 +17,7 @@ export type Movie = {
   } | null;
   plot: string;
 };
+
+export interface MovieListProps {
+  movies: Movie[];
+}

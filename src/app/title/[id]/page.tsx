@@ -59,7 +59,7 @@ export default function TitleDetail() {
   }
 
   return (
-    <main className="max-w-4xl mx-auto px-12 lg:px-0 h-screen flex-center">
+    <main className="max-w-6xl mx-auto px-12 lg:px-0 h-screen flex-center">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Movie poster */}
         <div className="md:col-span-1">
