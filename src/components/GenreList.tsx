@@ -13,7 +13,6 @@ export type Genre = {
 const GenreList: React.FC<GenreListProps> = ({ genres }) => {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
   const [itemsPerPage, setItemsPerPage] = useState(6);
 
@@ -40,12 +39,10 @@ const GenreList: React.FC<GenreListProps> = ({ genres }) => {
     } else {
       router.push(`/?genreId=${genreId}`);
     }
-    setIsDropdownOpen(false);
   };
 
   const handleAllClick = () => {
     router.push('/');
-    setIsDropdownOpen(false);
   };
 
   const nextPage = () => {

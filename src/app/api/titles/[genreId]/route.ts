@@ -3,7 +3,7 @@ import { NextRequest, NextResponse } from "next/server";
 const BASE_URL = "https://api.imdbapi.dev";
 
 export async function GET(
-    req: NextRequest,
+    _req: NextRequest,
     { params }: { params: { genreId: string } }
 ) {
     const genreId = await params.genreId;

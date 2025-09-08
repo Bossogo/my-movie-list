@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import type { Movie } from "@/types/movie";
+import Image from "next/image";
 
 export default function TitleDetail() {
   const [movie, setMovie] = useState<Movie | null>(null);
@@ -64,10 +65,12 @@ export default function TitleDetail() {
         {/* Movie poster */}
         <div className="md:col-span-1">
           {movie.primaryImage?.url && (
-            <img
+            <Image
               src={movie.primaryImage.url}
               alt={movie.primaryTitle}
               className="w-full rounded-lg shadow-lg"
+              width={500}
+              height={750}
             />
           )}
         </div>

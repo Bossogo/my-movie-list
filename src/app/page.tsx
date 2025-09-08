@@ -7,7 +7,6 @@ import type { Category, Interest, Movie } from "@/types";
 
 export default function Home() {
   const [movies, setMovies] = useState<Movie[]>([]);
-  const [interests, setInterests] = useState<Interest[]>([]);
   const [genres, setGenres] = useState<Genre[]>([]);
   const [error, setError] = useState<string | null>(null);
   const searchParams = useSearchParams();
@@ -50,7 +49,6 @@ export default function Home() {
           name: obj.category
         }));
         //alert(JSON.stringify(genres, null, 2));
-        setInterests(data.categories || []);
         setGenres(genres);
       } catch (error) {
         setError(`Failed to fetch interests: ${error}`);

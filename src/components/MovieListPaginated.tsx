@@ -1,7 +1,13 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import PaginationControls from "./PaginationControls";
-import type { MovieListProps } from "@/types/movie";
+import type { Movie } from "@/types";
+import Image from "next/image";
+
+
+interface MovieListProps {
+  movies: Movie[];
+}
 
 export default function MovieList({ movies }: MovieListProps) {
   const [currentPage, setCurrentPage] = useState(0);
@@ -58,10 +64,12 @@ export default function MovieList({ movies }: MovieListProps) {
             aria-label={`View details for ${movie.primaryTitle}`}
           >
             {movie.primaryImage?.url && (
-              <img
+              <Image
                 src={movie.primaryImage.url}
                 alt={movie.primaryTitle}
                 className="w-full rounded mb-3 aspect-[2/3] object-cover"
+                width={500}
+                height={750}
               />
             )}
             <h2 className="text-xl font-semibold">{movie.primaryTitle}</h2>

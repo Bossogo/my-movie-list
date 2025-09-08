@@ -17,7 +17,3 @@ type Movie = {
   } | null;
   plot: string;
 };
-
-interface MovieListProps {
-  movies: Movie[];
-}
