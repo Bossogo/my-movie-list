@@ -4,9 +4,9 @@ const BASE_URL = "https://api.imdbapi.dev";
 
 export async function GET(
   _req: NextRequest,
-  { params }: { params: { id: string } }
+  ctx: { params: { id: string } }
 ) {
-  const { id } = await params;
+  const { id } = await ctx.params;
   const apiRes = await fetch(`${BASE_URL}/titles/${encodeURIComponent(id)}`);
   const data = await apiRes.json();
   return NextResponse.json(data);
