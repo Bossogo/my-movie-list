@@ -17,7 +17,6 @@ const GenreList: React.FC<GenreListProps> = ({ genres }) => {
   const [currentPage, setCurrentPage] = useState(0);
   const [itemsPerPage, setItemsPerPage] = useState(6);
 
-  // Responsive items per page
   useEffect(() => {
     function updateItemsPerPage() {
       if (window.innerWidth < 640) setItemsPerPage(3); // mobile
@@ -37,10 +36,8 @@ const GenreList: React.FC<GenreListProps> = ({ genres }) => {
 
   const handleGenreClick = (genreId: string) => {
     if (currentGenreId === genreId) {
-      // If same genre is clicked, clear the filter
       router.push('/');
     } else {
-      // Navigate to the genre
       router.push(`/?genreId=${genreId}`);
     }
     setIsDropdownOpen(false);
