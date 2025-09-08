@@ -6,8 +6,8 @@ type RouteContext = {
   params: Promise<{ id: string }>;
 };
 
-export async function GET( _req: NextRequest, context: RouteContext) {
-  const { id } = await context.params;
+export async function GET( _req: NextRequest, {params}: RouteContext) {
+  const { id } = await params;
   const apiRes = await fetch(`${BASE_URL}/titles/${encodeURIComponent(id)}`);
   const data = await apiRes.json();
   return NextResponse.json(data);
