@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import MovieList from "../components/MovieListPaginated";
 import GenreList, { Genre } from "../components/GenreList";
-import { Interest, Movie } from "@/types";
+import type { Category, Interest, Movie } from "@/types";
 
 export default function Home() {
   const [movies, setMovies] = useState<Movie[]>([]);
@@ -45,7 +45,7 @@ export default function Home() {
           throw new Error(`Request failed with ${res.status} ${res.statusText}`);
         }
         const data = await res.json();
-        const genres = data.categories.map((obj: any) => ({
+        const genres: Genre[] = data.categories.map((obj: Category) => ({
           id: obj.interests[0].id,
           name: obj.category
         }));

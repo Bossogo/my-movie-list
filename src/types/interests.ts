@@ -22,7 +22,11 @@ export interface InterestData {
 }
 
 // Type guards for runtime type checking
-export const isInterest = (obj: any): obj is Interest => {
+export const isInterest = (
+  obj: { id: unknown; name: unknown; 
+    primaryImage: { 
+      url: unknown; width: unknown; height: unknown; 
+    }; }): obj is Interest => {
   return (
     typeof obj === 'object' &&
     typeof obj.id === 'string' &&
@@ -34,7 +38,7 @@ export const isInterest = (obj: any): obj is Interest => {
   );
 };
 
-export const isCategory = (obj: any): obj is Category => {
+export const isCategory = (obj: { category: unknown; interests: Interest[] }): obj is Category => {
   return (
     typeof obj === 'object' &&
     typeof obj.category === 'string' &&
