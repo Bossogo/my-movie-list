@@ -1,6 +1,6 @@
 'use client'
 import { useEffect, useState } from "react";
-import { useSearchParams } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import MovieList from "../components/MovieListPaginated";
 import GenreList, { Genre } from "../components/GenreList";
 import type { Category, Interest, Movie } from "@/types";
@@ -10,24 +10,36 @@ export default function Home() {
   const [genres, setGenres] = useState<Genre[]>([]);
   const [error, setError] = useState<string | null>(null);
   const searchParams = useSearchParams();
+  const router = useRouter();
+
+  useEffect(() => {
+    const genreName = searchParams.get('genre');
+    if (!genreName) return;
+    if (genres.length === 0) return;
+
+    const target = genres.find(g => g.name.toLowerCase() === genreName.trim().toLowerCase());
+    const params = new URLSearchParams(searchParams.toString());
+    params.delete('genre');
+    if (target) {
+      params.set('genreId', target.id);
+    } else {
+      params.delete('genreId');
+      setError('Error: Genre name does not Exists.');
+    }
+    const qs = params.toString();
+    router.replace(qs ? `/?${qs}` : '/');
+  }, [searchParams, genres, router]);
 
   useEffect(() => {
     async function fetchMovies() {
       try {
         const genreId = searchParams.get('genreId');
-        let apiUrl;
-        if (genreId) {
-          apiUrl = `/api/titles/${genreId}`;
-        } else {
-          apiUrl = "/api/titles";
-        }
-        
+        const apiUrl = genreId ? `/api/titles/${genreId}` : "/api/titles";
         const res = await fetch(apiUrl);
         if (!res.ok) {
           throw new Error(`Request failed with ${res.status} ${res.statusText}`);
         }
         const data = await res.json();
-        //alert(JSON.stringify(data, null, 2)); 
         setMovies(data.titles || []);
       } catch (error) {
         setError(`Failed to fetch movies: ${error}`);

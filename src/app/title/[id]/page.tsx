@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import type { Movie } from "@/types/movie";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function TitleDetail() {
   const [movie, setMovie] = useState<Movie | null>(null);
@@ -109,12 +110,13 @@ export default function TitleDetail() {
               <h3 className="font-semibold mb-2">Genres:</h3>
               <div className="flex flex-wrap gap-2">
                 {movie.genres.map((genre, index) => (
-                  <span
+                  <Link
                     key={index}
-                    className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm"
+                    href={`/?genre=${encodeURIComponent(genre)}`}
+                    className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm hover:bg-blue-200 dark:hover:bg-blue-800 transition-colors"
                   >
                     {genre}
-                  </span>
+                  </Link>
                 ))}
               </div>
             </div>

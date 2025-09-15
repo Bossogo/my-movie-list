@@ -13,6 +13,8 @@ export type Genre = {
 const GenreList: React.FC<GenreListProps> = ({ genres }) => {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const currentGenreId = searchParams.get('genreId');
+  const activeGenreId = currentGenreId;
   const [currentPage, setCurrentPage] = useState(0);
   const [itemsPerPage, setItemsPerPage] = useState(6);
 
@@ -28,13 +30,13 @@ const GenreList: React.FC<GenreListProps> = ({ genres }) => {
     return () => window.removeEventListener('resize', updateItemsPerPage);
   }, []);
 
-  const currentGenreId = searchParams.get('genreId');
   const totalPages = Math.ceil(genres.length / itemsPerPage);
   const startIndex = currentPage * itemsPerPage;
   const visibleGenres = genres.slice(startIndex, startIndex + itemsPerPage);
 
   const handleGenreClick = (genreId: string) => {
-    if (currentGenreId === genreId) {
+    const isActive = activeGenreId === genreId;
+    if (isActive) {
       router.push('/');
     } else {
       router.push(`/?genreId=${genreId}`);
@@ -61,7 +63,7 @@ const GenreList: React.FC<GenreListProps> = ({ genres }) => {
         <button
           onClick={handleAllClick}
           className={`px-3 py-1 rounded-full text-sm transition-colors ${
-            !currentGenreId 
+            !activeGenreId 
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 hover:bg-gray-300 text-gray-700'
           }`}
@@ -75,7 +77,7 @@ const GenreList: React.FC<GenreListProps> = ({ genres }) => {
             key={genre.id}
             onClick={() => handleGenreClick(genre.id)}
             className={`px-3 py-1 rounded-full text-sm transition-colors ${
-              currentGenreId === genre.id 
+              activeGenreId === genre.id 
                 ? 'bg-blue-600 text-white' 
                 : 'bg-gray-200 hover:bg-gray-300 text-gray-700'
             }`}
